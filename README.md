@@ -13,7 +13,13 @@
 
 Join wurde ausschließlich für Bildungszwecke entwickelt und ermöglicht Nutzern, grundlegende Prinzipien des Projektmanagements durch das Kanban-Framework zu erlernen und anzuwenden. Die App ist nicht für den intensiven persönlichen oder geschäftlichen Einsatz vorgesehen.
 
-## Installation
+## Verwendete Technologien
+
+- **HTML:** Für die Strukturierung der Webseiteninhalte.
+- **CSS:** Für das Design und die Gestaltung der Benutzeroberfläche.
+- **JavaScript:** Für die Interaktivität und die Logik der Anwendung.
+
+
 
 -----------------------------------------------------------
 
@@ -28,3 +34,8 @@ Join wurde ausschließlich für Bildungszwecke entwickelt und ermöglicht Nutzer
 ## Purpose
 Join was developed exclusively for educational purposes, allowing users to learn and apply basic project management principles using the Kanban framework. The app is not intended for extensive personal or business use.
 
+## Technologies Used
+
+- **HTML:** For structuring the web page content.
+- **CSS:** For designing and styling the user interface.
+- **JavaScript:** For adding interactivity and application logic.
