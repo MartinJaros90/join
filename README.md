@@ -14,3 +14,17 @@
 Join wurde ausschließlich für Bildungszwecke entwickelt und ermöglicht Nutzern, grundlegende Prinzipien des Projektmanagements durch das Kanban-Framework zu erlernen und anzuwenden. Die App ist nicht für den intensiven persönlichen oder geschäftlichen Einsatz vorgesehen.
 
 ## Installation
+
+-----------------------------------------------------------
+
+# Join - Kanban Project Management Tool
+**Join** is a web-based **Kanban Project Management Tool**, developed by a group of students as part of a web development bootcamp at Developer Akademie GmbH. The app helps users organize their projects and tasks using the Kanban method, managing tasks visually across different columns (To-Do, In Progress, Done).
+
+## Features
+- **Kanban Board:** Create and manage tasks across different phases of a project (e.g., To-Do, In Progress, Done).
+- **Drag-and-Drop Support:** Move tasks between different phases using drag-and-drop functionality.
+- **Task Management:** Add new tasks, edit existing ones, or delete tasks when they are completed.
+- **Project Overview:** Keep track of the current project status and upcoming tasks.
+## Purpose
+Join was developed exclusively for educational purposes, allowing users to learn and apply basic project management principles using the Kanban framework. The app is not intended for extensive personal or business use.
+
